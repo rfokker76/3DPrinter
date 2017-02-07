@@ -1,0 +1,113 @@
+﻿#Board Type(1:marlin, 2:repetier, 3:smoothie)
+>cfg_firmware_type:1
+
+#Machine Type(1:Normal, 2:Delta)
+>cfg_machine_type:1
+
+#Language(1:Simple Chinese, 2:Complex Chinese, 3:English)
+>cfg_language_type:3
+
+#Kick off function configuration (0: not kick off, 1: kick off)
+>cfg_print_finish_close_Machine:0
+
+#Pause position (-1 invalid, Z axis relative position)
+>cfg_XPOS:-1
+>cfg_YPOS:-1
+>cfg_ZADD:10
+
+#Nozzle (1: single, 2: double)
+>cfg_sprayer_counter:1
+
+#Hot bed (1: heated bed, 0: no heated bed)
+>cfg_custom_bed_flag:1
+
+#Head / hot bed maximum target temperature
+>cfg_max_sprayer_temperature:270
+>cfg_max_hotbed_temperature:150
+
+#Blanking Interface PB1 level configuration (0:low level, 1:high level)
+>cfg_PB0_PB1_Level:1
+
+#Wifi mode (1:AP, 0:STA)
+>cfg_wifi_mode:1
+
+#Wifi credentials
+>cfg_wifi_ap_name:MKS_wifi
+>cfg_wifi_key_code:makerbase
+
+#Dynamic IP
+>cfg_ip_dhcp_flag:1
+
+#IP / Mask / Gateway
+>cfg_ip_address:192.168.3.100
+>cfg_ip_mask:255.255.255.0
+>cfg_ip_gate:192.168.3.1
+
+#Screen background color
+>cfg_background_color:0xFFFFFF
+#Headline text
+>cfg_title_color:0x000000
+#Background color temperature and other state
+>cfg_state_background_color:0xFFFFFF
+#Status text color temperature, etc.
+>cfg_state_text_color:0x000000
+#File button on the file name font background color
+>cfg_filename_background_color:0xFFFFFF
+#File button on the file name font color
+>cfg_filename_color:0x000000
+#Font background color print status information
+>cfg_printingstat_word_background_color:0xFFFFFF
+#Font color print status information
+>cfg_printingstat_word_color:0x000000
+
+#3D button effect (0: off, 1: on)
+>cfg_BUTTON_3D_effects:0
+
+#Refueling speed configuration (mm / min)
+>cfg_filament_change_speed:800
+#Refueling step length (mm)
+>cfg_filament_change_step:5
+#Refueling minimum temperature configuration
+>cfg_filament_limit_temperature:175
+
+#Leveling mode configuration (1:auto leveling, 0:manual leveling)
+>cfg_leveling_mode:1
+#Position coordinates of the four points when manually leveling
+>cfg_point1:50,50
+>cfg_point2:180,50
+>cfg_point3:180,180
+>cfg_point4:50,180
+#Leveling speed (mm / min)
+>cfg_leveling_z_speed:1500
+>cfg_leveling_xy_speed:3000
+
+#Function button (0: not displayed, 1: displayed)
+>cfg_function_btn1_display:1
+>cfg_function_btn2_display:1
+
+#Function command line
+>function_btn1_cmd:M84;
+>function_btn2_cmd:G28;G29;
+
+#More button Number
+>moreitem_pic_cnt:2
+
+#More buttons commands
+>moreitem_button1_cmd:G28 X0;
+>moreitem_button2_cmd:G28 X0;
+>moreitem_button3_cmd:G28 Y0;
+>moreitem_button4_cmd:G28 Y0;
+>moreitem_button5_cmd:G28 Z0;
+>moreitem_button6_cmd:G28 Z0;
+>moreitem_button7_cmd:G28;
+
+#Print interface "More" button quantity
+>morefunc_cnt:2
+
+#Button 1 To 6 Function Configuration
+>morefunc1_cmd:G28;
+>morefunc2_cmd:G28;
+>morefunc3_cmd:G28;
+>morefunc4_cmd:G28;
+>morefunc5_cmd:G28;
+>morefunc6_cmd:G28;
