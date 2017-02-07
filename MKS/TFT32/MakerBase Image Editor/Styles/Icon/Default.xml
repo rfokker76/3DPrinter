@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<IconStyle xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>Default</Name>
+  <BackColor>#000000</BackColor>
+  <BorderType>None</BorderType>
+  <BorderColor>#000000</BorderColor>
+  <BorderSize>0</BorderSize>
+  <IconShape>BoxRounded</IconShape>
+  <IconShapeColor>#FFFFFF</IconShapeColor>
+  <TextFont>Arial</TextFont>
+  <TextFontSize>11</TextFontSize>
+  <TextColor>#FFFFFF</TextColor>
+  <ShadowType>None</ShadowType>
+  <ShadowColor>#000000</ShadowColor>
+</IconStyle>

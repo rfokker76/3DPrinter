@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<IconStyle xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>Box</Name>
+  <BackColor>#494949</BackColor>
+  <BorderType>Rounded</BorderType>
+  <BorderColor>#000000</BorderColor>
+  <BorderSize>1</BorderSize>
+  <IconShape>BoxRounded</IconShape>
+  <IconShapeColor>#FFFFFF</IconShapeColor>
+  <TextFont>BankGothic Lt BT</TextFont>
+  <TextFontSize>11</TextFontSize>
+  <TextColor>#FFFFFF</TextColor>
+  <ShadowType>None</ShadowType>
+  <ShadowColor>#808080</ShadowColor>
+</IconStyle>

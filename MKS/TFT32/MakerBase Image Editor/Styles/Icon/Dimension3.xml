@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<IconStyle xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>Dimension3</Name>
+  <BackColor>#494949</BackColor>
+  <BorderType>None</BorderType>
+  <BorderColor>#494949</BorderColor>
+  <BorderSize>0</BorderSize>
+  <IconShape>Circle</IconShape>
+  <IconShapeColor>#FFFFFF</IconShapeColor>
+  <TextFont>BankGothic Lt BT</TextFont>
+  <TextFontSize>11</TextFontSize>
+  <TextColor>#FFFFFF</TextColor>
+  <ShadowType>Simple</ShadowType>
+  <ShadowColor>#808080</ShadowColor>
+</IconStyle>

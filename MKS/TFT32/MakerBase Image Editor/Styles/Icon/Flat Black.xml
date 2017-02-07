@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<IconStyle xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>Flat Black</Name>
+  <BackColor>#000000</BackColor>
+  <BorderType>None</BorderType>
+  <BorderColor>0</BorderColor>
+  <BorderSize>1</BorderSize>
+  <IconShape>None</IconShape>
+  <IconShapeColor>#FFFFFF</IconShapeColor>
+  <TextFont>BankGothic Lt BT</TextFont>
+  <TextFontSize>11</TextFontSize>
+  <TextColor>#FFFFFF</TextColor>
+  <ShadowType>None</ShadowType>
+  <ShadowColor>#A9A9A9</ShadowColor>
+</IconStyle>
