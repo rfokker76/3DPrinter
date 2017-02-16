@@ -10,6 +10,7 @@
   <TextFont>BankGothic Lt BT</TextFont>
   <TextFontSize>11</TextFontSize>
   <TextColor>#000000</TextColor>
+  <TextAlign>MiddleCenter</TextAlign>
   <ShadowType>None</ShadowType>
   <ShadowColor>#A9A9A9</ShadowColor>
 </IconStyle>

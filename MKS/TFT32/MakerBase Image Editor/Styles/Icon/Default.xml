@@ -10,6 +10,7 @@
   <TextFont>Arial</TextFont>
   <TextFontSize>11</TextFontSize>
   <TextColor>#FFFFFF</TextColor>
+  <TextAlign>MiddleCenter</TextAlign>
   <ShadowType>None</ShadowType>
   <ShadowColor>#000000</ShadowColor>
 </IconStyle>

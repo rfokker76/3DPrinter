@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<IconStyle xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>Windows 10</Name>
+  <BackColor>Gray</BackColor>
+  <BorderType>Simple</BorderType>
+  <BorderColor>Black</BorderColor>
+  <BorderSize>3</BorderSize>
+  <IconShape>None</IconShape>
+  <IconShapeColor>White</IconShapeColor>
+  <TextFont>Segoe UI</TextFont>
+  <TextFontSize>9</TextFontSize>
+  <TextColor>White</TextColor>
+  <TextAlign>BottomLeft</TextAlign>
+  <ShadowType>None</ShadowType>
+  <ShadowColor>DarkGray</ShadowColor>
+</IconStyle>
